@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LibraRyx</title>
+
+  <!-- ✅ VIEWPORT -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ✅ SEO / PREVIEW -->
+  <meta name="description" content="Ry's personal ebook library. Browse, search, and request books easily.">
+  <meta name="theme-color" content="#0C326A">
+
+  <!-- ✅ FONT (optimized loading) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- ✅ STYLES -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- ===================================================== -->
+  <!-- ======================= HEADER ======================= -->
+  <!-- ===================================================== -->
+  <header class="header">
+    <h1>Ry's Library</h1>
+
+    <button 
+      class="request-btn" 
+      onclick="window.open('https://forms.gle/zB6aV4orUjpoJzdQ8', '_blank')"
+      aria-label="Request a book"
+    >
+      Request a Book
+    </button>
+  </header>
+
+  <!-- ===================================================== -->
+  <!-- ======================= RECENT ======================= -->
+  <!-- ===================================================== -->
+  <section>
+    <h2>Recently Added</h2>
+    <div id="recent" class="grid"></div>
+  </section>
+
+  <!-- ===================================================== -->
+  <!-- ======================= LIBRARY ====================== -->
+  <!-- ===================================================== -->
+  <section>
+
+    <div class="library-header">
+      <h2>Library</h2>
+
+      <input 
+        type="text" 
+        id="search" 
+        placeholder="Search books..."
+        autocomplete="off"
+        aria-label="Search books"
+      >
+    </div>
+
+    <div id="tabs" class="tabs"></div>
+
+    <!-- 🔥 container stays stable -->
+    <div id="library" aria-live="polite"></div>
+
+  </section>
+
+  <!-- ===================================================== -->
+  <!-- ======================= EMPTY ======================== -->
+  <!-- ===================================================== -->
+  <!-- (JS will inject here when needed) -->
+
+  <!-- ===================================================== -->
+  <!-- ======================= CREDITS ====================== -->
+  <!-- ===================================================== -->
+  <footer class="credits">
+    Made by 
+    <a href="https://github.com/ravionry" target="_blank" rel="noopener noreferrer">
+      @ravionry
+    </a>
+    <span class="sep">|</span>
+    LibraRyx
+  </footer>
+
+  <!-- ===================================================== -->
+  <!-- ======================= SCRIPTS ====================== -->
+  <!-- ===================================================== -->
+
+  <!-- 🔥 Defer = faster load, no blocking -->
+  <script src="books.js" defer></script>
+  <script src="script.js" defer></script>
+
+</body>
+</html>
