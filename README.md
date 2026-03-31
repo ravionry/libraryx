@@ -1,6 +1,6 @@
 # LibraRyx
 
-LibraryX is a minimalist web-based ebook library designed for fast access, clean organization, and a smooth user experience across desktop and mobile devices.
+LibraRyx is a minimalist web-based ebook library designed for fast access, clean organization, and a smooth user experience across desktop and mobile devices.
 
 ## Features
 
