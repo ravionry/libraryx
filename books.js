@@ -488,5 +488,89 @@ const books = [
     title: "Tita Rosie's Kitchen Mystery 6 - Death and Dinuguan - Mia Manansala.epub",
     fileId: '1jNVrJaGHi7JExlOkVXjM-22OZfxOb8qQ',
     date: '2026-03-31'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 1 - Diary of a Wimpy Kid - Jeff Kinney.pdf",
+    fileId: '1_3p2GGmyiyiFX1jK95RPW4HZM9kyj0-u',
+    date: '2026-04-08'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 2 - Rodrick Rules - Jeff Kinney.pdf",
+    fileId: '194iOnvvy2yRCD72fq7zblsHDdTAm4Ibu',
+    date: '2026-04-08'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 3 - The Last Straw - Jeff Kinney.pdf",
+    fileId: '1B3n2XJnlV5GrNv5YWqly9HjIecK7v6FN',
+    date: '2026-04-08'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 4 - Dog Days - Jeff Kinney.pdf",
+    fileId: '19pvk6mfLiFEzilbf_kDD-KNzKfm7OgBS',
+    date: '2026-04-08'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 5 - The Ugly Truth - Jeff Kinney.pdf",
+    fileId: '1dSCvIWLCZHPJt21jrIpQ3gKtTOoBnWr0',
+    date: '2026-04-08'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 6 - Cabin Fever - Jeff Kinney.pdf",
+    fileId: '1Sz31JylsUr7px-T5z2-QRU2-TwSbnsaV',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 7 - The Third Wheel - Jeff Kinney.pdf",
+    fileId: '1wj_WuWlywSOtsBKZnlwLLolhSfgwt8Cm',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 8 - Hard Luck - Jeff Kinney.pdf",
+    fileId: '15BL3fSzoT1dBIIHbmXO_GkjlMVoU-Sop',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 9 -  The Long Haul - Jeff Kinney.pdf",
+    fileId: '1M_XLtFEv34pjo9d-SPZR42fwiIYm9zMp',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 10 - Old School - Jeff Kinney.pdf",
+    fileId: '1100luh6-Ki34GDCXzEpU2BaZS-UjHk7I',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 11 - Double Down - Jeff Kinney.pdf",
+    fileId: '1PeWddrFDFlfuQg65N8HmX_GCbLrAae3W',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 12 - Getaway - Jeff Kinney.pdf",
+    fileId: '1vchxqh2vXmxMOVXj5GAxQirzbBYCwC98',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 13 - MeltDown - Jeff Kinney.pdf",
+    fileId: '1a-MOYeOEsvdN168dz1ND_jGSdApUxTap',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 14 - Wrecking Ball - Jeff Kinney.pdf",
+    fileId: '11V8WpD6XYaL1Dh92Bj0y6VXL06sSARwe',
+    date: '2026-04-09'
   }
 ]
