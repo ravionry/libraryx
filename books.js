@@ -572,5 +572,47 @@ const books = [
     title: "Diary of a Wimpy Kid 14 - Wrecking Ball - Jeff Kinney.pdf",
     fileId: '11V8WpD6XYaL1Dh92Bj0y6VXL06sSARwe',
     date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 15 - The Deep End - Jeff Kinney.pdf",
+    fileId: '1uJetHFNT_gQdTQfVv3OgMOI6qVcx0rlr',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 16 - Big Shot - Jeff Kinney.pdf",
+    fileId: '1n_I0W4asfxNysG08t1vhKHIrqQVa_u6q',
+    date: '2026-04-09'
+  }, 
+
+  {
+    title: "Diary of a Wimpy Kid 17 - Diper Överlöde - Jeff Kinney.pdf",
+    fileId: '1uez8vK957zyPf3PoCabO15LFj38R_YB5',
+    date: '2026-04-09'
+  }, 
+
+  {
+    title: "Diary of a Wimpy Kid 18 - No Brainer - Jeff Kinney.pdf",
+    fileId: '1lRf6E_XXftOoFkuCXPFHW8OSDMsAqJIh',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "Diary of a Wimpy Kid 19 - Hot Mess - Jeff Kinney.pdf",
+    fileId: '18vyas21FslarOvBajSYUJSKZaiR0e75f',
+    date: '2026-04-09'
+  }, 
+
+  {
+    title: "Diary of a Wimpy Kid 20 - Partypooper - Jeff Kinney.pdf",
+    fileId: '1QMRAehUFKgtrapmRSaPil-kAJuEy3xga',
+    date: '2026-04-09'
+  },
+
+  {
+    title: "- Project Hail Mary - Andy Weir.epub",
+    fileId: '1l7lcLFFX7YQGCEieFgiUNTvihVfUXxcz',
+    date: '2026-04-09'
   }
 ]
